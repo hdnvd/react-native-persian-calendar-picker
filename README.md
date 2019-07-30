@@ -3,9 +3,8 @@
 [![Build Status](https://travis-ci.org/rghorbani/react-native-persian-calendar-picker.svg?branch=master)](https://travis-ci.org/rghorbani/react-native-persian-calendar-picker)
 
 
-This is a Jalaali (Persian) Calendar Picker Component for React Native
-This project is cloned from https://github.com/rghorbani/react-native-persian-calendar-picker,
-We've made some code fixes on it.
+This is a Jalaali (Persian) Calendar Picker Component for React Native.
+This project is cloned from https://github.com/rghorbani/react-native-persian-calendar-picker. We've made some code fixes on it.
 
 
 <kbd>

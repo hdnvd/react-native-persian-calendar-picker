@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /**
  * Persian Calendar Picker Component
  *

@@ -4,6 +4,8 @@
 
 
 This is a Jalaali (Persian) Calendar Picker Component for React Native
+This project is cloned from https://github.com/rghorbani/react-native-persian-calendar-picker,
+We've made some code fixes on it.
 
 
 <kbd>

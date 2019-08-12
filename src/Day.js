@@ -66,7 +66,7 @@ function Day(props) {
   }
   if (disabledDates) {
     disabledDates.forEach(theDate => {
-      console.log(theDate.valueOf());
+      // console.log(theDate.valueOf());
       if (theDate.isSame(thisDay, 'day')) dateIsDisabled = true;
     });
   }
